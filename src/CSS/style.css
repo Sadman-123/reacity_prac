@@ -1,0 +1,12 @@
+.navboss a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.clk{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 200px;
+}
+.clk h1{
+    font-size: 80px;
+}
